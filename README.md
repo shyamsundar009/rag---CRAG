@@ -30,8 +30,8 @@ To set up and run the CRAG implementation, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/crag-implementation.git
-   cd crag-implementation
+   git clone https://github.com/shyamsundar009/rag---CRAG
+   cd rag---CRAG
    ```
 
 2. **Create and Activate a Virtual Environment**
