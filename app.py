@@ -62,7 +62,7 @@ if st.sidebar.button("Injest"):
                 db = FAISS.from_documents(pages, OpenAIEmbeddings())
                 db.save_local("Local_vectorstore")
                 st.session_state.location = "Local_vectorstore"
-        #     st.success("VectorDatabse is created successfully in the Local_vectorstore folder")
+            st.success("VectorDatabse is created successfully in the Local_vectorstore folder")
     elif add_selectbox == "Locally stored Vectorstore DB":
         if vectorstore_name=="db_001":
             with st.sidebar:

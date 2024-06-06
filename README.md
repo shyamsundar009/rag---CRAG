@@ -58,3 +58,9 @@ To run the Streamlit application:
 ```bash
 streamlit run app.py
 ```
+
+### DEMO
+
+
+[![streamlit_Demo]](https://github.com/shyamsundar009/rag---CRAG/assets/167984593/af65c529-1ce9-49ee-ad1a-7d2b66978dd0)
+
